@@ -8,7 +8,7 @@ The system uses a relational database to handle key entities such as patients, d
 
 ## Live Dashboard
 
-**[View Public Power BI Dashboard]([https://app.powerbi.com/view?r=your-public-link-here](https://app.powerbi.com/groups/me/reports/31e6ef06-5eb2-4621-838b-285821c42c06/b13724fdcf497469a289?experience=power-bi))**  
+**[View Public Power BI Dashboard](https://app.powerbi.com/view?r=your-public-link-here](https://app.powerbi.com/groups/me/reports/31e6ef06-5eb2-4621-838b-285821c42c06/b13724fdcf497469a289?experience=power-bi)** 
 
 ## Dashboard Screenshot
 
