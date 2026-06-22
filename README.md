@@ -6,9 +6,9 @@ This Power BI dashboard is part of a comprehensive **Hospital Data Management Sy
 
 The system uses a relational database to handle key entities such as patients, doctors, departments, appointments, medical records, prescriptions, billing, rooms, and staff. Fake data was generated using Python's Faker library to populate the tables with realistic volumes of records.
 
-## Live Dashboard
 
 [Muluwerk_Derebe-PowerBI_Public_Repository](https://app.powerbi.com/groups/me/reports/31e6ef06-5eb2-4621-838b-285821c42c06/b13724fdcf497469a289?experience=power-bi)
+
 
 ## Dashboard Screenshot
 
